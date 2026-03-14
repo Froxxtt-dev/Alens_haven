@@ -594,6 +594,7 @@ section h2 {
 
 .hours-card h2 {
     font-size: 42px;
+    color: #fff;
 }
 
 .why-us h2 {
@@ -737,6 +738,7 @@ section h2 {
     margin-bottom: 15px;
     font-size: 42px;
     font-weight: 700;
+    color: #fff;
 }
 
 .contact-info p {
@@ -744,6 +746,7 @@ section h2 {
     margin-bottom: 40px;
     font-size: 18px;
     line-height: 1.6;
+    color: #fff;
 }
 
 .contact-info ul {
@@ -758,11 +761,13 @@ section h2 {
     margin-bottom: 25px;
     line-height: 1.6;
     font-size: 18px;
+    color: #fff;
 }
 
 .contact-info i {
     font-size: 22px;
-    background: rgba(255,255,255,0.2);
+    color: #fff;
+    background: rgba(255, 248, 248, 0.2);
     width: 45px;
     height: 45px;
     border-radius: 50%;
